@@ -1,7 +1,9 @@
 
 ### **Hi there 👋, I'm Samuel Steven**
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&lines=¡Hola!+Soy+Samuel+Steven+👨💻;Desarrollador+FullStack+en+formación+🚀;Amante+del+código+limpio+y+las+soluciones+creativas+💡" alt="Typing SVG" />
+</h1>
 
 ### 🧑‍💻 **About Me**
 
