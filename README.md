@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=fe5f40&center=true&vCenter=true&width=800&lines=👨‍💻Developer+in+training;my+code+doesn't+work,;+and+i+have+no+idea+why...;...but+it+will+soon!🚀" alt="Typing SVG" />
 </h1>
 
-### 🧑‍💻 **About Me F6EF90. CDE7E0. E2E3E4**
+### 🧑‍💻 **About Me**
 
 - 📍 **Location:**
 [Bogotá, Colombia](https://maps.app.goo.gl/q89iBrx8Gd7tBLnD8)
