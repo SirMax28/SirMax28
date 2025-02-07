@@ -2,10 +2,10 @@
 ### **Hi there 👋, I'm Samuel Steven**
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&lines=¡Hola!+Soy+Samuel+Steven+👨💻;Desarrollador+FullStack+en+formación+🚀;Amante+del+código+limpio+y+las+soluciones+creativas+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=fe5f40&center=true&vCenter=true&width=800&lines=👨‍💻Developer+in+training;my+code+doesn't+work,;+and+i+have+no+idea+why...;...but+it+will+soon!🚀" alt="Typing SVG" />
 </h1>
 
-### 🧑‍💻 **About Me**
+### 🧑‍💻 **About Me F6EF90. CDE7E0. E2E3E4**
 
 - 📍 **Location:**
 [Bogotá, Colombia](https://maps.app.goo.gl/q89iBrx8Gd7tBLnD8)
@@ -49,3 +49,5 @@ Computer Science Engineering
 #### 🗓️ **Commit Activity**
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sirmax28&theme=github-dark&hide_border=true&area=true&custom_title=My%20Commit%20Activity%20Graph)
+
+_If you got this far, thanks for reading._
