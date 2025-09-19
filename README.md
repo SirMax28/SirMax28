@@ -1,9 +1,10 @@
 
 ### **Hi there 👋, I'm Samuel Steven**
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=fe5f40&center=true&vCenter=true&width=800&lines=👨‍💻Developer+in+training;my+code+doesn't+work,;+and+i+have+no+idea+why...;...but+it+will+soon!🚀" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=fe5f40&center=true&vCenter=true&width=800&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBDeveloper+in+training;my+code+doesn%27t+work%2C+;+and+i+have+no+idea+why...;...but+it+will+soon!%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 
 ### 🧑‍💻 **About Me**
 
